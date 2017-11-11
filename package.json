@@ -1,0 +1,22 @@
+{
+    "name": "comfortable-color-theme",
+    "displayName": "comfortable-color-theme",
+    "description": "",
+    "version": "0.0.2",
+    "publisher": "yibuyisheng",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "comfortable-color-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/plastic-theme-punctuation.json"
+            }
+        ]
+    }
+}
