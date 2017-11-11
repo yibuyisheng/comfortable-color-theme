@@ -2,7 +2,7 @@
     "name": "comfortable-color-theme",
     "displayName": "comfortable-color-theme",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "yibuyisheng",
     "engines": {
         "vscode": "^1.13.0"
@@ -10,6 +10,9 @@
     "categories": [
         "Themes"
     ],
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "contributes": {
         "themes": [
             {
